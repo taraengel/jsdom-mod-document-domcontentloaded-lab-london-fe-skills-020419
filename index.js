@@ -1,4 +1,5 @@
 /* code goes here */
-document.addEventListener("DOMContentLoaded", e => {
-document.getElementById("hidden-div").innerText = "301"
+document.addEventListener("DOMContentLoaded", e => 
+{
+document.getElementById("hidden-div").innerText = "301";
 )}
